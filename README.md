@@ -22,16 +22,16 @@ A Streamlit-based study planning application that generates optimized study time
 ## Screenshots
 
 ### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dboard.png)
 
 ### Timetable Generator
-![Generator](assets/screenshots/generator.png)
+![Generator](assets/screenshots/gen.png)
 
-### Analytics
-![Analytics](assets/screenshots/analytics.png)
+### Timetable
+![Timetable](assets/screenshots/tt.png)
 
 ### Focus Mode
-![Focus](assets/screenshots/focus.png)
+![Focus](assets/screenshots/fm.png)
 
 ---
 
